@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**vanilsonteixeira221096/vanilsonteixeira221096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Vanilson Teixeira sejam bem vindos por aqui, sou programadoR formado em gestão de tecnologia da informação e aluno de uma das melhores escola de pragramação do Brasil. (DEVCLUB)
+Trabalho com essas tecnologias:
+<hr> <br>
+<div display-inbox>
+  
+  💻-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+💻 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+💻 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
-Here are some ideas to get you started:
+</div>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display-inbox>   
+Entre em contato ... ⬇️ <br> 
+<br>
+<img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> @vanilsont28
+<img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" /> 94-992745969 
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/> vanilsonteixeira221096@gmail.com
+
+</div>
