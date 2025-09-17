@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Vanilson Teixeira sejam bem vindos por aqui, sou programadoR formado em gestão de tecnologia da informação e aluno de uma das melhores escola de pragramação do Brasil. (DEVCLUB)
+Me chamo Vanilson Teixeira. Sejam bem vindos por aqui, sou programador formado em gestão de tecnologia da informação e aluno de uma das melhores escola de pragramação do Brasil. (DEVCLUB)
 Trabalho com essas tecnologias:
 <hr> <br>
 <div display-inbox>
